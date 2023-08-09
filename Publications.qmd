@@ -1,0 +1,5 @@
+---
+title: "Publications"
+---
+
+Mahajan, A; Esper, S; Oo, TH; McKibben, J; Garver, M; Artman, J; Klahre, C; Ryan, JP; Sadhasivam, S; Holder-Murray, J; Marroquin, OC.  (2023).  Development and Validation of a Machine Learning Model to Identify Patients Before Surgery at High Risk for Postoperative Adverse Events.  JAMA Network Open (in press).
