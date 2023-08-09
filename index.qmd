@@ -3,6 +3,3 @@ title: "John Ryan, Ph.D."
 ---
 
 Welcome! This is my personal website.
-
-#https://ucsb-meds.github.io/creating-quarto-websites/
-asdf asdfaasjdflk;ajsdofijas;djifasdf
