@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "homepage"
+  title: "John P. Ryan, Ph.D."
   navbar:
     left:
       - href: index.qmd
