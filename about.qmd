@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-I am the Statistical Project Manager for the Division of Lung Transplant in the [Department of Cardiothoracic Surgery at the University of Pittsburgh Medical Center](http://www.ctsurgery.pitt.edu/).  I have a Ph.D. in Psychology from [Georgia State University](http://www.gsu.edu), and am currently completing a Master's Degree in Statistical Data Science from [Texas A&M University](https://online.stat.tamu.edu/).
+I am the Statistical Project Manager for the Division of Lung Transplant in the [Department of Cardiothoracic Surgery](http://www.ctsurgery.pitt.edu/) at the University of Pittsburgh Medical Center.  I have a Ph.D. in Psychology from [Georgia State University](http://www.gsu.edu), and am currently completing a Master's Degree in Statistical Data Science from [Texas A&M University](https://online.stat.tamu.edu/).
