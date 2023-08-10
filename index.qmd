@@ -1,5 +1,34 @@
 ---
 title: "John Ryan, Ph.D."
+image: headshot.JPG
+about:
+  template: trestles
+  image-shape: round
+  image-width: 23em
 ---
 
-Welcome! This is my personal website.
+Welcome!
+
+## Education
+
+**Texas A&M University** \| College Station, TX
+
+Masters, Statistical Data Science \| January 2023 - present
+
+**Georgia State University** \| Atlanta, GA
+
+MA, PhD in Psychology \| August 2003 - July 2009
+
+**University of Arizona** \| Tucson, AZ
+
+BA in Psychology, BS in Philosophy \| August 1997 - May 2001
+
+## Experience
+
+**UPMC** \| Statistical Project Manager \| March 2018 - present
+
+Department of Cardiothoracic Surgery - Division of Lung Transplant
+
+**University of Pittsburgh** \| Assistant Professor \| August 2013 - December 2018
+
+Department of Psychiatry

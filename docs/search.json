@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "John Ryan, Ph.D.",
     "section": "",
-    "text": "Welcome! This is my personal website."
+    "text": "Welcome!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "John Ryan, Ph.D.",
+    "section": "Education",
+    "text": "Education\nTexas A&M University | College Station, TX\nMasters, Statistical Data Science | January 2023 - present\nGeorgia State University | Atlanta, GA\nMA, PhD in Psychology | August 2003 - July 2009\nUniversity of Arizona | Tucson, AZ\nBA in Psychology, BS in Philosophy | August 1997 - May 2001"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "John Ryan, Ph.D.",
+    "section": "Experience",
+    "text": "Experience\nUPMC | Statistical Project Manager | March 2018 - present\nDepartment of Cardiothoracic Surgery - Division of Lung Transplant\nUniversity of Pittsburgh | Assistant Professor | August 2013 - December 2018\nDepartment of Psychiatry"
   },
   {
     "objectID": "publications.html",
