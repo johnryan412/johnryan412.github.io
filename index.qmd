@@ -4,7 +4,7 @@ image: headshot.JPG
 about:
   template: trestles
   image-shape: rectangle
-  image-width: 23em
+  image-width: 12em
 ---
 
 Welcome!
