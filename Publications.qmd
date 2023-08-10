@@ -1,5 +1,5 @@
 ---
-title: "publications"
+title: "Publications"
 ---
 
 **2023/In Press**
@@ -12,7 +12,7 @@ Hyzny EJ, Chan EG, Malik SM, Morrell MR, Furukawa M, **Ryan JP**, Sanchez PG.  
 
 Coster JN, Noda K, **Ryan JP**, Chan EG, Furukawa M, Luketich JD, Sanchez PG. (2022).  Effects of Intraoperative Support Strategies on Endothelial Injury and Clinical Lung Transplant Outcomes.  *Seminars in Thoracic and Cardiovascular Surgery, in press.*
 
-Hlavin C, Muluk S, Muluk V, **Ryan JP**, Wagner J, Dhupar R.  (2022).  A Program to Reduce Post-Operative Opioid Prescribing at a Veteran\'s Affairs Hospital.  *Journal of Clinical Medicine, 11,* 5453.
+Hlavin C, Muluk S, Muluk V, **Ryan JP**, Wagner J, Dhupar R.  (2022).  A Program to Reduce Post-Operative Opioid Prescribing at a Veteran's Affairs Hospital.  *Journal of Clinical Medicine, 11,* 5453.
 
 Chan EG, Hyzny EJ, Furukawa M, **Ryan JP,** Subramaniam K, Morrell MR, Pilewski JM, Luketich JD, Sanchez PG.  (2022).  Intraoperative Support for Primary Bilateral Lung Transplantation: A Propensity-Matched Analysis.  *The Annals of Thoracic Surgery,* in press.
 
@@ -36,7 +36,7 @@ Furukawa M, Chan EG, Harano T, **Ryan JP,** Rivosecchi R, Morrell MR, Sanchez PG
 
 Hyzny EJ, Chan EG, **Ryan JP**, Harano T, Morrell MR, Sanchez PG.  (2021). Liver Dysfunction Following Lung Transplantation.  *American Journal of Transplantation.*
 
-Esper SA, Wallisch W, **Ryan JP,** Sanchez PG, Sciortino C, Murray H, Arlia P, D\'Cunha JD, Mahajan A, Triulzi D, Subramaniam K.  (2021).  Platelet transfusion is associated with 90‐day and 1‐year mortality for adult patients requiring veno‐arterial extracorporeal membrane oxygenation.  *Vox Sanguinis, 116(4),* 440-450.
+Esper SA, Wallisch W, **Ryan JP,** Sanchez PG, Sciortino C, Murray H, Arlia P, D'Cunha JD, Mahajan A, Triulzi D, Subramaniam K.  (2021).  Platelet transfusion is associated with 90‐day and 1‐year mortality for adult patients requiring veno‐arterial extracorporeal membrane oxygenation.  *Vox Sanguinis, 116(4),* 440-450.
 
 Christie IG, Chan EG, **Ryan JP,** Harano T, Morrell MR, Luketich JD, Sanchez PG.  (2021).  National trends in extended criteria donor utilization and outcomes for lung transplantation.  *The Annals of Thoracic Surgery, 111(2),* 421-426.
 
@@ -50,9 +50,9 @@ Chan EG, Chan PG, Harano T, **Ryan JP,** Morrell MR, Sanchez PG.  (2021).  Tre
 
 **2020**
 
-Jorge A, Sanchez PG, Hayanga JWA, Pilewski JM, Morrell M, Tuft M, **Ryan JP,** D\'Cunha JD.  (2020).  Routine deep vein thrombosis screening after lung transplantation: incidence and risk factors.  *Journal of Thoracic and Cardiovascular Surgery, 159(3),* 1142-1150.
+Jorge A, Sanchez PG, Hayanga JWA, Pilewski JM, Morrell M, Tuft M, **Ryan JP,** D'Cunha JD.  (2020).  Routine deep vein thrombosis screening after lung transplantation: incidence and risk factors.  *Journal of Thoracic and Cardiovascular Surgery, 159(3),* 1142-1150.
 
-D\'Cunha JD, Philips BJ, Kumar A, Burki S, **Ryan JP.**  (2020).  Triptolide-induced apoptosis in non-small cell lung cancer via a novel miR204-5p/Caveolin-1/Akt-mediated pathway.  *Oncotarget, 11(28),* 2793-2806.
+D'Cunha JD, Philips BJ, Kumar A, Burki S, **Ryan JP.**  (2020).  Triptolide-induced apoptosis in non-small cell lung cancer via a novel miR204-5p/Caveolin-1/Akt-mediated pathway.  *Oncotarget, 11(28),* 2793-2806.
 
 **2018**
 
