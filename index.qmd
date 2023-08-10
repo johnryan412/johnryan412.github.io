@@ -3,7 +3,7 @@ title: "John Ryan, Ph.D."
 image: headshot.JPG
 about:
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   image-width: 23em
 ---
 
