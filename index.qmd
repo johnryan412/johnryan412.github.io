@@ -7,8 +7,6 @@ about:
   image-width: 12em
 ---
 
-Welcome!
-
 ## Education
 
 **Texas A&M University** \| College Station, TX
