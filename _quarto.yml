@@ -13,9 +13,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: cosmo
-      dark: slate
+    theme: slate
     css: styles.css
     toc: true
     page-layout: full
