@@ -4,4 +4,4 @@ title: "About"
 
 I am the Statistical Project Manager for the Division of Lung Transplant in the [Department of Cardiothoracic Surgery](http://www.ctsurgery.pitt.edu/) at the University of Pittsburgh Medical Center. 
 
-Our research program examines the predictors of lung transplant outcomes using both internal and national registry datasets.  Additionally, we look at the relationship between Extrcorporeal Membrane Oxygenation (ECMO) and lung transplant, as well as *ex vivo* lung perfusion prior to transplant.
+Our research program examines the predictors of lung transplant outcomes using both internal and national registry datasets.  We are particularly interested in the effects of Extrcorporeal Membrane Oxygenation (ECMO) and *ex vivo* lung perfusion on transplant outcomes.
