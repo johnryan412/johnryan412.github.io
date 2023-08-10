@@ -4,21 +4,29 @@ title: "Publications"
 
 **2023/In Press**
 
-Mahajan, A; Esper, S; Oo, TH; McKibben, J; Garver, M; Artman, J; Klahre, C; **Ryan, JP**; Sadhasivam, S; Holder-Murray, J; Marroquin, OC. (2023). Development and Validation of a Machine Learning Model to Identify Patients Before Surgery at High Risk for Postoperative Adverse Events. JAMA Network Open (in press).
+Mahajan, A; Esper, S; Oo, TH; McKibben, J; Garver, M; Artman, J; Klahre, C; **Ryan, JP**; Sadhasivam, S; Holder-Murray, J; Marroquin, OC. (2023). Development and Validation of a Machine Learning Model to Identify Patients Before Surgery at High Risk for Postoperative Adverse Events. *JAMA Network Open*, *in press*.
+
+Chan EG, Pan G, Clifford S, Hyzny EJ, Furukawa M, Coster JN, **Ryan JP**, Gomez H, Sanchez PG. Postoperative Acute Kidney Injury and Long-Term Outcomes After Lung Transplantation. *Annals of Thoracic Surgery, in press*
+
+Deitz RL, Emerel L, Chan EG, **Ryan JP**, Hyzny E, Furukawa M, Sanchez PG. Waitlist Mortality and Extracorporeal Membrane Oxygenation Bridge to Lung Transplant. *Annals of Thoracic Surgery, in press.*
+
+Hyzny EJ, Chan EG, Malik SM, Morrell MR, Furukawa M, **Ryan JP**, Sanchez PG.  Risk Factors and Outcomes of Postoperative Hepatic Dysfunction after Lung Transplantation.  *Annals of Thoracic Surgery, in press.*
+
+Coster JN, Noda K, **Ryan JP**, Chan EG, Furukawa M, Luketich JD, Sanchez PG.  Effects of Intraoperative Support Strategies on Endothelial Injury and Clinical Lung Transplant Outcomes.  *Seminars in Thoracic and Cardiovascular Surgery, in press.*
+
+Chan EG, Hyzny EJ, Furukawa M, **Ryan JP,** Subramaniam K, Morrell MR, Pilewski JM, Luketich JD, Sanchez PG.  Intraoperative Support for Primary Bilateral Lung Transplantation: A Propensity-Matched Analysis.  *The Annals of Thoracic Surgery,* *in press*.
+
+Furukawa M, Noda K, Chan EG, **Ryan JP**, Coster JN, Sanchez PG. Lung transplantation from donation after circulatory death, evolution, and current status in the United States. *Clinical Transplantation, in press.*
+
+Deitz RL, Thorngren CK, Seese LM, Ryan JP, Ramanan R, **Sanchez PG**, Murray H. Evolution of extracorporeal membrane oxygenation trigger criteria in COVID-19 acute respiratory distress syndrome. *Journal of Thoracic and Cardiovascular Surgery, in press.*
 
 **2022**
 
-Hyzny EJ, Chan EG, Malik SM, Morrell MR, Furukawa M, **Ryan JP**, Sanchez PG.  (2022).  Risk Factors and Outcomes of Postoperative Hepatic Dysfunction after Lung Transplantation.  *Annals of Thoracic Surgery, in press.*
-
-Coster JN, Noda K, **Ryan JP**, Chan EG, Furukawa M, Luketich JD, Sanchez PG. (2022).  Effects of Intraoperative Support Strategies on Endothelial Injury and Clinical Lung Transplant Outcomes.  *Seminars in Thoracic and Cardiovascular Surgery, in press.*
-
 Hlavin C, Muluk S, Muluk V, **Ryan JP**, Wagner J, Dhupar R.  (2022).  A Program to Reduce Post-Operative Opioid Prescribing at a Veteran's Affairs Hospital.  *Journal of Clinical Medicine, 11,* 5453.
-
-Chan EG, Hyzny EJ, Furukawa M, **Ryan JP,** Subramaniam K, Morrell MR, Pilewski JM, Luketich JD, Sanchez PG.  (2022).  Intraoperative Support for Primary Bilateral Lung Transplantation: A Propensity-Matched Analysis.  *The Annals of Thoracic Surgery,* in press.
 
 Furukawa M, Chan EG, **Ryan JP**, Hyzny EJ, Sacha LM, Coster JN, Pilewski JM, Lendermon EA, Kilaru SD, McDyer JF, Sanchez PG.  (2022).  Induction Strategies in Lung transplantation: Alemtuzumab vs. Basiliximab a single-center experience.  *Frontiers in Immunology, 13.*
 
-Sanchez PG. Chan EG, Madde A, Furukawa M, Coster JN, **Ryan JP**, Luketich JD. (2022). Transpulmonary gradient as a predictor for outcomes after lung transplantation.  *Shanghai Chest, 6(2).*
+Sanchez PG. Chan EG, Madde A, Furukawa M, Coster JN, **Ryan JP**, Luketich JD. (2022). Transpulmonary gradient as a predictor for outcomes after lung transplantation. *Shanghai Chest, 6(2).*
 
 Furukawa M, Chan E, Morrell MR, **Ryan JP,** Rivosecchi R, Iasella C, Lendermon E, Pilewski J, Sanchez PG.  (2022).  Risk factors of bronchial dehiscence after primary lung transplantation.  *Journal of Cardiac Surgery, 37(4),* 950-957.
 
