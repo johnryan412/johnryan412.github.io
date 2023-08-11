@@ -4,21 +4,21 @@ title: "Publications"
 
 ## In Press
 
-Mahajan A, Esper S, Oo TH, McKibben J, Garver M, Artman J, Klahre C, **Ryan JP**, Sadhasivam S, Holder-Murray J, Marroquin OC. [Development and Validation of a Machine Learning Model to Identify Patients Before Surgery at High Risk for Postoperative Adverse Events](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807056). *JAMA Network Open*, *in press*.
-
 Chan EG, Pan G, Clifford S, Hyzny EJ, Furukawa M, Coster JN, **Ryan JP**, Gomez H, Sanchez PG. [Postoperative Acute Kidney Injury and Long-Term Outcomes After Lung Transplantation](https://www.annalsthoracicsurgery.org/article/S0003-4975(23)00679-3/fulltext). *Annals of Thoracic Surgery, in press*
-
-Deitz RL, Emerel L, Chan EG, **Ryan JP**, Hyzny E, Furukawa M, Sanchez PG. [Waitlist Mortality and Extracorporeal Membrane Oxygenation Bridge to Lung Transplant](https://www.annalsthoracicsurgery.org/article/S0003-4975(23)00344-2/fulltext). *Annals of Thoracic Surgery, in press.*
 
 Hyzny EJ, Chan EG, Malik SM, Morrell MR, Furukawa M, **Ryan JP**, Sanchez PG.  [Risk Factors and Outcomes of Postoperative Hepatic Dysfunction after Lung Transplantation](https://www.annalsthoracicsurgery.org/article/S0003-4975(22)01226-7/fulltext).  *Annals of Thoracic Surgery, in press.*
 
 Coster JN, Noda K, **Ryan JP**, Chan EG, Furukawa M, Luketich JD, Sanchez PG.  [Effects of Intraoperative Support Strategies on Endothelial Injury and Clinical Lung Transplant Outcomes](https://www.semthorcardiovascsurg.com/article/S1043-0679(23)00001-1/fulltext).  *Seminars in Thoracic and Cardiovascular Surgery, in press.*
 
-Furukawa M, Noda K, Chan EG, **Ryan JP**, Coster JN, Sanchez PG. [Lung transplantation from donation after circulatory death, evolution, and current status in the United States](https://onlinelibrary.wiley.com/doi/10.1111/ctr.14884). *Clinical Transplantation, in press.*
-
 Deitz RL, Thorngren CK, Seese LM, **s**, Ramanan R, Sanchez PG, Murray H. [Evolution of extracorporeal membrane oxygenation trigger criteria in COVID-19 acute respiratory distress syndrome](https://www.jtcvs.org/article/S0022-5223(22)01157-6/fulltext). *Journal of Thoracic and Cardiovascular Surgery, in press.*
 
 ## 2023
+
+Mahajan A, Esper S, Oo TH, McKibben J, Garver M, Artman J, Klahre C, **Ryan JP**, Sadhasivam S, Holder-Murray J, Marroquin OC. (2023). [Development and Validation of a Machine Learning Model to Identify Patients Before Surgery at High Risk for Postoperative Adverse Events](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807056). *JAMA Network Open,6(7)*:e2322285.
+
+Deitz RL, Emerel L, Chan EG, **Ryan JP**, Hyzny E, Furukawa M, Sanchez PG. (2023). [Waitlist Mortality and Extracorporeal Membrane Oxygenation Bridge to Lung Transplant](https://www.annalsthoracicsurgery.org/article/S0003-4975(23)00344-2/fulltext). *Annals of Thoracic Surgery, 116(1)*: 156-162.
+
+Furukawa M, Noda K, Chan EG, **Ryan JP**, Coster JN, Sanchez PG. (2023). [Lung transplantation from donation after circulatory death, evolution, and current status in the United States](https://onlinelibrary.wiley.com/doi/10.1111/ctr.14884). *Clinical Transplantation, 37(3)*: e14884.
 
 Chan EG, Hyzny EJ, Furukawa M, **Ryan JP,** Subramaniam K, Morrell MR, Pilewski JM, Luketich JD, Sanchez PG. (2023).  [Intraoperative Support for Primary Bilateral Lung Transplantation: A Propensity-Matched Analysis](https://www.annalsthoracicsurgery.org/article/S0003-4975(22)00858-X/fulltext).  *The Annals of Thoracic Surgery, 115(3)*: 743-749.
 
