@@ -1,3 +1,6 @@
+---
+title: "Homepage"
+---
 <html>
  <head>
   <meta charset = "UTF-8">
