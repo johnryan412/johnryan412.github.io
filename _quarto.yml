@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "John P. Ryan, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme: slate
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual

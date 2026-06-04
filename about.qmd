@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+I am the Statistical Project Manager for the [Department of Cardiothoracic Surgery](https://www.ctsurgery.pitt.edu/) at the University of Pittsburgh Medical Center, where I lead the design, analysis, and interpretation of clinical research studies.
+
+I earned my doctorate from [Georgia State University](https://psychology.gsu.edu/) and subsequently completed the [Cardiovascular Behavioral Medicine Training Program](https://psychiatry.pitt.edu/research/research-training/postdoctoral-training/training-programs/cardiovascular-behavioral) at the University of Pittsburgh. I later served as an Assistant Professor of Psychiatry, where my research focused on the relationship between pre-diabetic conditions and alterations in brain network connectivity, with implications for future dementia risk.
+
+In 2018, I transitioned to Cardiothoracic Surgery to focus on applied biostatistics in surgical and transplant outcomes research. I provide statistical leadership and support to the [Thoracic and Foregut Surgery](https://www.ctsurgery.pitt.edu/divisions/division-thoracic-and-foregut-surgery) division and the [Lung Transplant](https://www.ctsurgery.pitt.edu/divisions/division-cardiothoracic-transplantation) program. My work involves developing analytic strategies for complex clinical datasets, including survival analysis, causal inference methods, and longitudinal modeling, to evaluate how demographic, physiologic, and procedural factors influence patient outcomes across a range of interventions, including cancer resection, esophagectomy, and lung transplantation.
+
+During this time, I completed a [Master of Science in Statistics](https://artsci.tamu.edu/statistics/index.html) from Texas A&M University to further strengthen my methodological expertise.
