@@ -2,6 +2,8 @@
 title: "About"
 ---
 
+TEST
+
 I am the Statistical Project Manager for the [Department of Cardiothoracic Surgery](https://www.ctsurgery.pitt.edu/) at the University of Pittsburgh Medical Center, where I lead the design, analysis, and interpretation of clinical research studies.
 
 I earned my doctorate from [Georgia State University](https://psychology.gsu.edu/) and subsequently completed the [Cardiovascular Behavioral Medicine Training Program](https://psychiatry.pitt.edu/research/research-training/postdoctoral-training/training-programs/cardiovascular-behavioral) at the University of Pittsburgh. I later served as an Assistant Professor of Psychiatry, where my research focused on the relationship between pre-diabetic conditions and alterations in brain network connectivity, with implications for future dementia risk.
